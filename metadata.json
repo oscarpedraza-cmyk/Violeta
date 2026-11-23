@@ -1,0 +1,8 @@
+{
+  "name": "Violeta Connect",
+  "description": "Plataforma de vinculación laboral e Incentivo Violeta (Ley 1257 de 2008) con cumplimiento HABEAS DATA y gestión documental ante la DIAN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
